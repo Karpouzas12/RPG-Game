@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\RPG-master\RPG\bin\Debug\RPG.exe.config
+C:\Users\User\Downloads\RPG-master\RPG\bin\Debug\RPG.exe
+C:\Users\User\Downloads\RPG-master\RPG\bin\Debug\RPG.pdb
+C:\Users\User\Downloads\RPG-master\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\RPG-master\RPG\obj\Debug\RPG.Form1.resources
+C:\Users\User\Downloads\RPG-master\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\User\Downloads\RPG-master\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\User\Downloads\RPG-master\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\RPG-master\RPG\obj\Debug\RPG.exe
+C:\Users\User\Downloads\RPG-master\RPG\obj\Debug\RPG.pdb
